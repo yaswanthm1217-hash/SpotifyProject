@@ -1,0 +1,9 @@
+{
+	"name": "spotify-DF-yash",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6b6906c6-5669-414f-ad3a-239d73b64322",
+		"tenantId": "931139b1-e44d-4a83-820c-1853fa2250bc"
+	}
+}
